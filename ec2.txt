@@ -1,1 +1,2 @@
 This is my new ec2 text file
+one more line adding
